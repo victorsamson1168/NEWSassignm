@@ -1,0 +1,19 @@
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_width="200sp"
+        android:layout_height="200sp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/icon"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:textAlignment="center"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#ffffff"
+        android:text="made with♥by VICTOR SAMSON"/>
+</RelativeLayout>

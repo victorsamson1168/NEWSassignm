@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022075951644",
+    "firebase_url": "https://popularnews-master-a8eec.firebaseio.com",
+    "project_id": "popularnews-master-a8eec",
+    "storage_bucket": "popularnews-master-a8eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022075951644:android:223027b58454a231481dd9",
+        "android_client_info": {
+          "package_name": "com.samson.popularnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022075951644-l2dt9lib4mj604tekqk4pvl8eo7iud2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samson.popularnews",
+            "certificate_hash": "481b661365db5e64ddae3574420e0bfb6a2c3f37"
+          }
+        },
+        {
+          "client_id": "1022075951644-5qanv6prt1rjde2htpknhrjm22a010v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYIZgDvDdi0B7gDyeOkaFJr-Ibo3suEps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022075951644-5qanv6prt1rjde2htpknhrjm22a010v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
